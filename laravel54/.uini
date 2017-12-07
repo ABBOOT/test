@@ -1,0 +1,1 @@
+open_basedir="F:\soft\UPUPW_NP5.6\htdocs\laravel\laravel54\;F:\soft\UPUPW_NP5.6\memcached\;F:\soft\UPUPW_NP5.6\phpmyadmin\;F:\soft\UPUPW_NP5.6\temp\;C:\windows\Temp\"
